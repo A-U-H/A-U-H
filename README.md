@@ -30,7 +30,7 @@ Currently, I am a student at **PIAIC Lahore**, diving deep into the world of **A
 
 I'm always open to discussing the future of AI, cybersecurity, or how we can use automation to change the way we work.
 
-<a href="https://www.linkedin.com/in/ahtasham-ul-haq-mughal" target="_blank">
+<a href="https://www.linkedin.com/in/a-u-h" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> 
 <a href="mailto:shammughal495@gmail.com" target="_blank">
